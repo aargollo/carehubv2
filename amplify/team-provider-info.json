@@ -9,7 +9,13 @@
       "UnauthRoleName": "amplify-carehubv2-dev-144651-unauthRole",
       "StackName": "amplify-carehubv2-dev-144651",
       "StackId": "arn:aws:cloudformation:sa-east-1:216863624236:stack/amplify-carehubv2-dev-144651/4038b2c0-9cd8-11ed-8c29-06ea793a70b4",
-      "AmplifyAppId": "d2jhg6dspv13aq"
+      "AmplifyAppId": "d2jhg6dspv13aq",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-carehubv2-dev-144651-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "carehubv28c8d433f": {}
+      }
     }
   }
 }
