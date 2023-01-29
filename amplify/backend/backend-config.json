@@ -1,6 +1,6 @@
 {
   "auth": {
-    "carehubv28c8d433f": {
+    "carehubv2bd3f6621": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -13,11 +13,10 @@
           "passwordPolicyMinLength": 8
         },
         "signupAttributes": [
-          "ADDRESS",
           "BIRTHDATE",
           "EMAIL",
           "FAMILY_NAME",
-          "NAME",
+          "GIVEN_NAME",
           "PHONE_NUMBER"
         ],
         "socialProviders": [],
